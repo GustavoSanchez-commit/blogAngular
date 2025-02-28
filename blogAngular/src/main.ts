@@ -14,11 +14,6 @@ import { RouterOutlet } from '@angular/router';
     <main>
       <router-outlet></router-outlet>
     </main>
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; 2025 Angular Blog. All rights reserved.</p>
-      </div>
-    </footer>
   `,
   styles: [`
     main {
